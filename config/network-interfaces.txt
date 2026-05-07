@@ -1,0 +1,11 @@
+# /etc/sysconfig/network-scripts/ifcfg-enp0s8 (ALT Linux)
+BOOTPROTO=static
+IPADDR=192.168.1.1
+NETMASK=255.255.255.0
+ONBOOT=yes
+
+# /etc/sysconfig/network-scripts/ifcfg-enp0s9
+BOOTPROTO=static
+IPADDR=192.168.2.1
+NETMASK=255.255.255.0
+ONBOOT=yes
